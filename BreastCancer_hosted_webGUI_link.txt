@@ -1,0 +1,6 @@
+Name: [Your Name]
+Matric Number: [Your Matric No]
+Machine Learning Algorithm Used: Support Vector Machine (SVM)
+Model persistence method used: Joblib
+Live URL of the hosted application: [Render Link]
+GitHub repository link: [GitHub Link]
